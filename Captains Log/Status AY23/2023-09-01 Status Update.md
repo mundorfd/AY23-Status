@@ -1,6 +1,6 @@
 ---
 created: 2023-08-30T13:30:02-07:00
-modified: 2023-09-06T15:25:28-07:00
+modified: 2023-09-06T15:59:23-07:00
 ---
 # 2023-09-01 Status Report
 
@@ -85,6 +85,8 @@ Designed the following pages for our HTML course, doing an FAQ section. On the f
 ![banner 1 before](images/CH322_before.jpeg)
 to this
 ![banner 1 after](images/Ch322_after.png)
+
+You might enjoy some of the [design discussions](https://oregonstate.box.com/s/lsmu6xnhak14qcikhvyh13ijcd4d8iq2) I held with Charlie about banners and molecules.
 
 ### No activity this week
 
