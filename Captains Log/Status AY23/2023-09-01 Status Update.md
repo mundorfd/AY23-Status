@@ -1,7 +1,8 @@
 ---
 created: 2023-08-30T13:30:02-07:00
-modified: 2023-09-06T15:01:36-07:00
+modified: 2023-09-06T15:17:50-07:00
 ---
+# 2023-09-01 Status Report
 
 ## Non-Course Projects
 
@@ -23,8 +24,6 @@ I have set up a GitHub repository to work on the faculty communications document
 ### IDKB
 
 -Updates to [Slack – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/slack/)
-
-### Internship Program
 
 ### OLC Conference
 
