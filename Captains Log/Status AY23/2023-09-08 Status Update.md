@@ -1,6 +1,6 @@
 ---
 created: 2023-09-11T18:26:17-07:00
-modified: 2023-09-11T18:39:52-07:00
+modified: 2023-09-11T18:45:08-07:00
 ---
 
 ## Non-Course Projects
@@ -24,12 +24,13 @@ I have set up a GitHub repository to work on the faculty communications document
 ### Internship Program
 
 - AHE program coordinator has sent me four applications to review. I will do this and schedule them for our placeholder slots later this week.
+
 ### OLC Conference
 
 - Prepped for Ecampus workshop, had to cancel Phil was sick.
 - Developed an illustration and page for our course FAQ section
 
-![Margins vs. Padding](images/OLCMargins.png)
+![Margins vs. Padding](./images/OLCMargins.png)
 
 ### Onboarding New IDs
 
@@ -55,14 +56,15 @@ I have set up a GitHub repository to work on the faculty communications document
 #### SCLM 450/550
 
 - Rohan canceled on me this week. Several things were completed for him, captured in this [Asana task](https://app.asana.com/0/1204222537805703/1205472616144712). Specifically:
-	- shared information on slash courses, since he had the same assessments for grad students as for undergrads
-	- converted remaining slide decks to new template
-	- shared guidance on the instructor information policy
-	- shared guidance on a welcome message for home page
-	- setup all discussions for the course (2x a week), with reminders for two follow ups to each (in progress w/help from student worker)
-	- reworded week to module throughout site (in progress w/help from student worker)
-	- build a discussion rubric
-	- requested a meeting for this week or next
+    - shared information on slash courses, since he had the same assessments for grad students as for undergrads
+    - converted remaining slide decks to new template
+    - shared guidance on the instructor information policy
+    - shared guidance on a welcome message for home page
+    - setup all discussions for the course (2x a week), with reminders for two follow ups to each (in progress w/help from student worker)
+    - reworded week to module throughout site (in progress w/help from student worker)
+    - build a discussion rubric
+    - requested a meeting for this week or next
+
 ### W24
 
 #### AEC 250
@@ -72,23 +74,26 @@ I have set up a GitHub repository to work on the faculty communications document
 #### CCE 207
 
 - Joe has the 10 week course outlined and is working on video recordings. Content has not yet been delivered to me.
+
 #### CH 332
 
 - Built Module 3, Module 1 overview and homepage banner
 - Check in meeting with Kate and Jeff
 - He requested porting existing content form spring course to studio site
-- gave info on transfer of ownership for existing 
+- gave info on transfer of ownership for existing
 
 Some back and forth with the media team. They had sent an email to Jeff that neither Kate or I were cc'd on.  He is on the waiting list and [CH 332 - W24 - Video - Asana Task](https://app.asana.com/0/1123253820104403/1205280025484220)they had told him in that email:
 > Please message me back with your availability for recording and I will reach out to Media Hub on your behalf to coordinate scheduling with them. Once we know your availability through the Fall for recording on campus, we can get the ball rolling.
 
 I responded
-> Jeff is at the Cascades campus and will be recording using the Lightboard there (which he helped set up and secure funding for). The media hub in Corvallis doesn't make sense. 
+> Jeff is at the Cascades campus and will be recording using the Lightboard there (which he helped set up and secure funding for). The media hub in Corvallis doesn't make sense.
 
 Media team understands now, that this is going to be recorded in the Cascades. I have asked them to clarify with Jeff, since that initial correspondence was confusing.
+
 #### CS 493
 
 - Check-in scheduled Friday. No activity this week.
+
 #### CEM 372
 
 - Reached out to Amalesh to request a meeting. Haven't heard back yet (may still be in India)
@@ -98,4 +103,4 @@ Media team understands now, that this is going to be recorded in the Cascades. I
 - Worked on build of module 7 from DOC and prepped for check-in meeting
 - Camille has delivered three weeks of content
 
-#LKAD
+# LKAD
