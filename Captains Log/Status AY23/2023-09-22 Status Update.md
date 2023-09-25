@@ -1,7 +1,7 @@
 ---
 
 created: 2023-09-19T16:15:37-07:00
-modified: 2023-09-25T12:39:32-07:00
+modified: 2023-09-25T12:57:16-07:00
 ---
 
 ## Non-Course Projects
@@ -26,7 +26,11 @@ modified: 2023-09-25T12:39:32-07:00
 - Finished all the learning materials pages, they were dense, see the example:
  ![](images/cem471_materials.png)
 - Built staged assignment weeks 9 & 10
- ![](images/cem471_w9.png)![](images/cem471_w9_2.png)
+
+|                      |                        |
+| ------------------------- | --------------------------- |
+| ![](images/cem471_w9.png) | ![](images/cem471_w9_2.png) |
+
 - Worked on Quiz 4. Needed to recreate the table in question so that it wasn't an image:
  ![](images/cem471table.png)
 - Built staged assignments for weeks 9 & 10 and built visual
