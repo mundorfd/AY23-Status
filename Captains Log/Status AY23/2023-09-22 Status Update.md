@@ -1,12 +1,9 @@
 ---
-
 created: 2023-09-19T16:15:37-07:00
-modified: 2023-09-25T12:57:16-07:00
+modified: 2023-09-25T12:59:04-07:00
 ---
 
 ## Non-Course Projects
-
-￼
 
 ### IDKB
 
@@ -27,7 +24,7 @@ modified: 2023-09-25T12:57:16-07:00
  ![](images/cem471_materials.png)
 - Built staged assignment weeks 9 & 10
 
-|                      |                        |
+|                           |                             |
 | ------------------------- | --------------------------- |
 | ![](images/cem471_w9.png) | ![](images/cem471_w9_2.png) |
 
