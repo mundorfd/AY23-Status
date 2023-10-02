@@ -1,6 +1,6 @@
 ---
-created: 2023-09-11T18:26:17-07:00
-modified: 2023-09-29T09:03:19-07:00
+created: 2023-09-11 14:09
+modified: 2023-10-02 15:10
 ---
 
 ## Non-Course Projects

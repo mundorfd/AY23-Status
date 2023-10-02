@@ -1,14 +1,32 @@
 ---
 created: 2023-10-02 11:10
-modified: 2023-10-02 14:10
+modified: 2023-10-02 15:10
 ---
-
 
 ## Non-Course Projects
 
 ### Faculty Communications Manual
 
-I have set up a GitHub repository to work on the faculty communications documents I have been creating for the course development manual. I would like to keep them private for now, but share it with you. To do this, I hope to add you as a collaborator. If you don't yet have one would you be willing to [Sign up for a GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)? That way I could share links and you could suggest edits. New this week:
+I have set up a GitHub repository to work on the faculty communications documents I have been creating for the course development manual. I would like to keep them private for now, but share it with you. To do this, I hope to add you as a collaborator. If you don't yet have one would you be willing to [Sign up for a GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)? That way I could share links and you could suggest edits. New or updated this week:
+
+- [Alt Text.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Alt%20Text.md)
+- [Avoid Specifying Due Dates in Page Text.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Avoid%20Specifying%20Due%20Dates%20in%20Page%20Text.md)
+- [Canvas Content Availability.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Canvas%20Content%20Availability.md)
+- [Canvas LMS - Setting Up a Staged Individual Assignment with Group Topic Selection.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Canvas%20LMS%20-%20Setting%20Up%20a%20Staged%20Individual%20Assignment%20with%20Group%20Topic%20Selection.md)
+- [Course Wrap-Activites.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Course%20Wrap-Activites.md)
+- [Course Wrap-up email.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Course%20Wrap-up%20email.md)
+- [Embedding Slides and PDFs into Canvas.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Embedding%20Slides%20and%20PDFs%20into%20Canvas.md)
+- [Formatting Issues with Pasted Content in Canvas.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Formatting%20Issues%20with%20Pasted%20Content%20in%20Canvas.md)
+- [Gradescope.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Gradescope.md)
+- [Instructor Information Page.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Instructor%20Information%20Page.md)
+- [Late DOC Assignment Email.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Late%20DOC%20Assignment%20Email.md)
+- [Lecture Recording Guidance.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Lecture%20Recording%20Guidance.md)
+- [MLOs and Blooms Taxonomy Levels.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/MLOs%20and%20Blooms%20Taxonomy%20Levels.md)
+- [Media Strategy Confirmation.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Media%20Strategy%20Confirmation.md)
+- [Setting Due Dates.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Setting%20Due%20Dates.md)
+- [Using Ecampus Media Services Even When Recording at Home.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Using%20Ecampus%20Media%20Services%20Even%20When%20Recording%20at%20Home.md)
+- [Using Images in Courses.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Using%20Images%20in%20Courses.md)
+- [Why Add an Assignment Purpose.md](https://github.com/mundorfd/faculty-comms/blob/209a55ee2c694b27dbe0c5b76948316a99f2b169/Why%20Add%20an%20Assignment%20Purpose.md)
 
 ### IDKB
 
@@ -20,10 +38,11 @@ I have set up a GitHub repository to work on the faculty communications document
 - Gave information on working with interns to mentors.
 - Scheduled orientation meeting with each intern
 - Confirmed that mentors had connected with interns
-
-### OLC Conference
 ​​
 ### Onboarding New IDs
+
+- I am awaiting feedback on the updated onboarding plan and skills assessment survey
+- Do we have start dates?
 
 ### Sr. ID Responsibilities
 
@@ -40,11 +59,12 @@ I have set up a GitHub repository to work on the faculty communications document
 - Updates to Learning materials pages
 - Implemented feedback modules 1–6, accessibility corrections week 7 lectures. Built learning materials on week 7
 - Added Affordability matters badge.
+- Send final closing email and (cc AD) Closing Emails to Faculty.
 
 #### CS 162H
 
 - Course instructor added pages (imported?), I believe were for TAs. These pages had numerous accessibility problems. Over 75 had skipped heading levels. I reworked these pages to pass accessibility.
-- There were also several pages with Assignment Solutions that needed clean up.
+- Several pages with Assignment Solutions needed clean up as well.
 
 #### SCLM 450/550
 
@@ -86,16 +106,21 @@ I have set up a GitHub repository to work on the faculty communications document
 
 - Check in meeting with Penny. No progress since last meeting. Working on the Core Ed paperwork
 
-#### CCE 207
-
-#### CH 332
-
 #### CS 493
 
-#### CEM 372
+- Build Module 2 
+- Updated Status in Salesforce, Content 30%, Built 20%
 
-#### NSE 515
+#### No Activity This Week
 
+- CCE 207
+- CH 332
+- CEM 372
+- NSE 515
+
+### S24
+
+- Discussion with Ami about the course development process. She's gotten a bit out in front of her skis. Also asked her to reconsider not wanting to use media. Sent several examples for her to consider.
 
 ### Other
 
@@ -112,4 +137,4 @@ Burkan finally got to some of the remaining tasks:
 
 I am still waiting for the video editing that they said they would do themselves, when the opted out of media support. There is a final meeting scheduled for November 16 to review completeness.
 
-%%add LKAD tag when ready to submit%%
+#LKAD
