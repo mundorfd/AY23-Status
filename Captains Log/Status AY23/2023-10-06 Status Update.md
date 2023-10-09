@@ -3,6 +3,10 @@ created: 2023-10-09 14:10
 modified: 2023-10-09 16:10
 ---
 
+## Schedule Notes
+
+* I was out on a pre-approved vacation day Friday
+
 ## Course Development Projects
 
 ### W24
@@ -59,13 +63,9 @@ modified: 2023-10-09 16:10
 
 ## Non-Course Projects
 
-### Faculty Communications Manual
-
-I have set up a GitHub repository to work on the faculty communications documents I have been creating for the course development manual. I would like to keep them private for now, but share it with you. To do this, I hope to add you as a collaborator. If you don't yet have one would you be willing to [Sign up for a GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)? That way I could share links and you could suggest edits. New this week:
-
 ### IDKB
 
-- Wrote [How to Get the Link for a Specific Course Calendar in Canvas LMS – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/specific-course-calendar-link/)
+* Wrote [How to Get the Link for a Specific Course Calendar in Canvas LMS – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/specific-course-calendar-link/)
 
 ### Internship Program
 
@@ -92,3 +92,5 @@ I have set up a GitHub repository to work on the faculty communications document
 * Attended Media Showcase
 
 %%add LKAD tag when ready to submit%%
+
+#LKAD
