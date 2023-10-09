@@ -91,6 +91,4 @@ modified: 2023-10-09 16:10
 
 * Attended Media Showcase
 
-%%add LKAD tag when ready to submit%%
-
 #LKAD
