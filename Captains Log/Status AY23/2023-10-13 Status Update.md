@@ -1,6 +1,6 @@
 ---
 created: 2023-10-13 11:10
-modified: 2023-10-16 8:10
+modified: 2023-10-16 11:10
 ---
 
 # 2023-10-13 Status Update
@@ -61,15 +61,15 @@ Because of this, he has brought lots of problematic content (accessibility and c
 
 #### SOC 280
 
-- Scheduled intake, will take place Tuesday
+* Scheduled intake, will take place Tuesday
 
 #### CS 499 (CS 435)
 
-- Schedule Intake, will take place Wednesday
+* Schedule Intake, will take place Wednesday
 
 #### NSE 515
 
-- Discussion with Laurie/Camille re: extension. 
+* Discussion with Laurie/Camille re: extension.
 
 ### Support for F23 Courses
 
@@ -119,4 +119,5 @@ New or updated this week:
 * Shared some ideas on Socratic teaching and then a bit more on using Canvas for Reflective Journals.
 * Was unable to submit a media support ticket for a W24 course. "Custom Support is at maximum capacity for the selected delivery term." I don't think support requests should be blocked, like new media requests. If something is broken, we need to be able to request support and report it.
 
+#LKAD
 %%add LKAD tag when ready to submit%%
