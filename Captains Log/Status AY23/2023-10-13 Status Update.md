@@ -1,6 +1,6 @@
 ---
 created: 2023-10-13 11:10
-modified: 2023-10-16 11:10
+modified: 2023-10-16 12:10
 ---
 
 # 2023-10-13 Status Update
@@ -120,4 +120,3 @@ New or updated this week:
 * Was unable to submit a media support ticket for a W24 course. "Custom Support is at maximum capacity for the selected delivery term." I don't think support requests should be blocked, like new media requests. If something is broken, we need to be able to request support and report it.
 
 #LKAD
-%%add LKAD tag when ready to submit%%
