@@ -77,10 +77,6 @@ Because of this, he has brought lots of problematic content (accessibility and c
 
 ## Non-Course Projects
 
-### Faculty Communications Manual
-
-New or updated this week:
-
 ### H5P Admin
 
 * Added Skye to Kate's Soil class H5P site. Figured out how to enable LaTex in her activities (she pointed me to the library!).
