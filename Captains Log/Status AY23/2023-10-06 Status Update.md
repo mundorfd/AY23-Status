@@ -1,7 +1,9 @@
 ---
 created: 2023-10-09 14:10
-modified: 2023-10-09 16:10
+modified: 2023-10-23 16:10
 ---
+
+# 2023-10-06 Status Update
 
 ## Schedule Notes
 
@@ -13,11 +15,11 @@ modified: 2023-10-09 16:10
 
 #### AEC 250
 
-* Penny wants to use Gradescope for weekly problem sets. She wants students to answer text questions and upload images of graphs. To accomplish this we need a fillable form for students. I created one as a POC for them.
+* Penny wants to use Gradescope for weekly problem set this we need a fillable form for students. I created one as a POC for them.
 
 |                    |                    |
 |--------------------|--------------------|
-|![](images/AEC-250-1.png)|![](images/AEC-250-2.png)|
+|![](./images/AEC-250-1.png)|![](./images/AEC-250-2.png)|
 
 #### CCE 207
 
