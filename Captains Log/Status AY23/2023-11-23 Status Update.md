@@ -113,6 +113,5 @@ New or updated this week:
 
  * Week 6 DOC Facilitation: [Topic: Week 6 - Discussion: Setting Expectations and Balancing the Workload - DOC Discussion Group A](https://canvas.oregonstate.edu/groups/564991/discussion_topics/10441617) Continue to build up a collection of feedback for this topic that is proving helpful. See [Curated DOC Week 6 Discussion Feedback](https://github.com/mundorfd/faculty-comms/blob/0785f62ec482cf84bb63ea3e5ef0a593d570ed6a/Curated%20DOC%20Week%206%20Discussion%20Feedback.md)
 
-%%add LKAD tag when ready to submit%%
 
 #LKAD
