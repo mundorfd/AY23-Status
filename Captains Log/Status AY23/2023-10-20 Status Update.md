@@ -1,6 +1,6 @@
 ---
 created: 2023-10-23 12:10
-modified: 2023-10-23 16:10
+modified: 2023-11-06 20:11
 ---
 
 # 2023-10-20 Status Update
@@ -32,7 +32,7 @@ modified: 2023-10-23 16:10
 
 #### CH 332
 
-- No activity this week
+* No activity this week
 
 #### CS 493
 
@@ -46,7 +46,7 @@ modified: 2023-10-23 16:10
 
 #### CEM 372
 
-- No activity this week
+* No activity this week
 
 #### ME 383
 
@@ -62,11 +62,11 @@ modified: 2023-10-23 16:10
 
 #### CS 201
 
-- No activity this week
+* No activity this week
 
 #### CH 123
 
-- No activity this week
+* No activity this week
 
 #### SOC 280
 
@@ -120,10 +120,10 @@ Met with Julie. She is working with Chris on conducting a pre-review of the ID D
 
 ### OLC Conference
 
-- Travel to conference Tuesday, October 24, 2023​. Will be traveling and attending the remainder of the week.
+* Travel to conference Tuesday, October 24, 2023​. Will be traveling and attending the remainder of the week.
 
 ### Onboarding New IDs
 
 * Walked through scheduling needs and asana project with Laura. Assigned IDs to meetings and updated timeframe files.
 
-#LKAD 
+#LKAD
