@@ -103,8 +103,6 @@ New or updated this week:
 * Gave Julie content for a sample ID Entry in the new ID Design Library format
 * Discussed winter term internships with AHE, sent position description and application deadline. We will only need to interview for one, Julie Kares, who has been doing great work and who Chris wants to continue working with, wants to come back. I decided to save ourselves time and not ask her to go through the interview process again. She's busy and putting extra time in (volunteering), and struggling with health issues.
 
-### Sr. ID Responsibilities
-
 ### Other
 
 * created a [video placeholder image](<https://github.com/mundorfd/id_public/blob/main/video-placeholder.png?raw=true”> alt=“video placeholder)
@@ -112,4 +110,4 @@ New or updated this week:
 * Collected a list of AI Tools for Academic Research: Blog post?
 * Updated shell script for course folder setup to download essentials and online teaching principals when prepping for intakes
 
-%%add LKAD tag when ready to submit%%
+#LKAD 
