@@ -91,6 +91,13 @@ modified: 2023-12-04 17:12
 
 New or updated this week:
 
+* [Alt Text](https://github.com/mundorfd/faculty-comms/blob/badf26b2f468637fbb6a9f06ba4ebf987353ce57/Alt%20Text.md)
+* [Canvas LMS - Setting Up a Staged Individual Assignment with Group Topic Selection](https://github.com/mundorfd/faculty-comms/blob/badf26b2f468637fbb6a9f06ba4ebf987353ce57/Canvas%20LMS%20-%20Setting%20Up%20a%20Staged%20Individual%20Assignment%20with%20Group%20Topic%20Selection.md)
+* [Course Development Timeline](https://github.com/mundorfd/faculty-comms/blob/badf26b2f468637fbb6a9f06ba4ebf987353ce57/Course%20Development%20Timeline.md)
+* [Descriptive Links in Web Accessibility](https://github.com/mundorfd/faculty-comms/blob/badf26b2f468637fbb6a9f06ba4ebf987353ce57/Descriptive%20Links%20in%20Web%20Accessibility.md)
+* [How and Why of Copying a Canvas Course site](https://github.com/mundorfd/faculty-comms/blob/badf26b2f468637fbb6a9f06ba4ebf987353ce57/How%20and%20Why%20of%20Copying%20a%20Canvas%20Course%20site.md)
+* [Late Submission of Materials](https://github.com/mundorfd/faculty-comms/blob/badf26b2f468637fbb6a9f06ba4ebf987353ce57/Late%20Submission%20of%20Materials.md)
+
 ### IDKB
 
 * [Lorem Picsum – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/lorem-picsum/?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJvc3VlY2FtcHVzIiwic3ViIjoiTVRRNU56azNOak0yT0RndU1BPT0iLCJvbmlkIjoibXVuZG9yZmQiLCJmdWxsbmFtZSI6IkRlYm9yYWggTXVuZG9yZmYiLCJhdWQiOiJTYW1wbGUgQXBwbGljYXRpb24iLCJleHAiOjE3MDE3NTY2MjgsImlhdCI6MTcwMTczNDQyOCwicm9sZSI6IiJ9.feoxhrgEbFwzXpDA3piiNMjVGQDdxgKzNczqZoCC2Mk)
@@ -110,4 +117,4 @@ New or updated this week:
 * Collected a list of AI Tools for Academic Research: Blog post?
 * Updated shell script for course folder setup to download essentials and online teaching principals when prepping for intakes
 
-#LKAD 
+#LKAD
