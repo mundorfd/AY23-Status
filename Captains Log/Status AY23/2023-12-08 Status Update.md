@@ -1,6 +1,6 @@
 ---
 created: 2023-12-11 9:12
-modified: 2023-12-11 13:12
+modified: 2023-12-11 14:12
 ---
 
 # 2023-12-08 Status Update
@@ -53,24 +53,29 @@ modified: 2023-12-11 13:12
 
 #### BDS 599
 
-- no activity this week
+* no activity this week
+
 #### CS 201
 
-- no activity this week
+* no activity this week
+
 #### CH 123
 
 * Met with Marita and setup an H5P site. She has not gotten much done, acknowledging she has a very busy term. We revisited the deadlines for development which she still believes she will make.
 * She wants the course to be part of Core Ed, and believes it will only involve changing the labs to be a bit more substantive (supposed to be 25% of the grade)
 * Gave information and submitting course proposals for 122 and 121.
+
 #### SOC 280
 
-- schedule media discussion for timeline activity
+* schedule media discussion for timeline activity
+
 #### CS 499 (CS 435)
 
-- no activity this week
+* no activity this week
+
 #### NSE 515
 
-- meeting scheduled for the week of 12/11
+* meeting scheduled for the week of 12/11
 
 ## Non-Course Projects
 
@@ -78,6 +83,7 @@ modified: 2023-12-11 13:12
 
 New or updated this week:
 
+- [Alt Text Overview](https://github.com/mundorfd/faculty-comms/blob/332aa0bacdf5fd51f7caaf16e870bd2549dddc6a/Alt%20Text%20Overview.md)
 ## H5P Admin
 
 ￼- One site build request
@@ -89,7 +95,7 @@ New and updated articles
 * [Creating a Drag and Drag-And-Drop Activity With an Image in H5P – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/creating-a-drag-and-drag-and-drop-activity-with-an-image-in-h5p/)
 * [Editing Canvas Page Titles Updates URLs – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/editing-canvas-page-titles-updates-urls/?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJvc3VlY2FtcHVzIiwic3ViIjoiTVRRNU56azNOak0yT0RndU1BPT0iLCJvbmlkIjoibXVuZG9yZmQiLCJmdWxsbmFtZSI6IkRlYm9yYWggTXVuZG9yZmYiLCJhdWQiOiJTYW1wbGUgQXBwbGljYXRpb24iLCJleHAiOjE3MDIzNDM5ODAsImlhdCI6MTcwMjMyMTc4MCwicm9sZSI6IiJ9.pIbYdi-QBqBTg1O6yBHCrrFf7x-UFB2hEmV4BmYlYT8)
 * [Recovering Deleted Canvas Content – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/recovering-deleted-canvas-content/)
-* [Using H5P WordPress Plugin to Create and Embed Activities in a Canvas Course Site – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/using-h5p-wordpress-plugin-to-create-and-embed-activities-in-a-canvas-course-site/)\
+* [Using H5P WordPress Plugin to Create and Embed Activities in a Canvas Course Site – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/using-h5p-wordpress-plugin-to-create-and-embed-activities-in-a-canvas-course-site/)
 * [H5P Interactive Book – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/h5p-interactive-books/)
 * [Building a Persistent Checklist in Canvas with Qualtrics – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/building-a-persistent-checklist-in-canvas-with-qualtrics/)
 
@@ -105,4 +111,4 @@ New and updated articles
 
 ### Other
 
-%%add LKAD tag when ready to submit%%
+#LKAD
