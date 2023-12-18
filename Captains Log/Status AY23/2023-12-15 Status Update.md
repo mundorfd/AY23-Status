@@ -49,11 +49,17 @@ modified: 2023-12-18 13:12
 
 #### CEM 372
 
+- no activity this week
+
 ### S24
 
 #### BDS 599
 
+- no activity this week
+
 #### CS 201
+
+- no activity this week
 
 #### CH 123
 
@@ -62,17 +68,22 @@ modified: 2023-12-18 13:12
 
 #### SOC 280
 
+- no activity this week
+
 #### CS 499 (CS 435)
+
+- no activity this week
 
 #### NSE 515
 
 * Camille wants H5P put in the media request and ask it be assigned to me
+* She has the overview content and the learning materials content in place for all weeks. She is working on developing assessments including three timeline based ones we have created for her.
 
 ### U24
 
 #### CS 290
 
-* conducted intake with Nauman
+* Intake Discussion with Nauman
 
 ## Non-Course Projects
 
@@ -84,7 +95,6 @@ modified: 2023-12-18 13:12
 
 New or updated this week:
 
-### IDKB
 
 ### Internship Program
 
@@ -96,6 +106,5 @@ New or updated this week:
 * meeting with Sr ids and ADs to discuss 2024 plan for ID2ID
 * Facilitated ID2ID
 
-### Other
 
-%%add LKAD tag when ready to submit%%
+#LKAD
