@@ -83,7 +83,8 @@ modified: 2023-12-11 14:12
 
 New or updated this week:
 
-- [Alt Text Overview](https://github.com/mundorfd/faculty-comms/blob/332aa0bacdf5fd51f7caaf16e870bd2549dddc6a/Alt%20Text%20Overview.md)
+* [Alt Text Overview](https://github.com/mundorfd/faculty-comms/blob/332aa0bacdf5fd51f7caaf16e870bd2549dddc6a/Alt%20Text%20Overview.md)
+
 ## H5P Admin
 
 ￼- One site build request
