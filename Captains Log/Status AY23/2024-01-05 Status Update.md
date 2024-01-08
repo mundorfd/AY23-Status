@@ -1,6 +1,6 @@
 ---
 created: 2024-01-08 9:01
-modified: 2024-01-08 9:01
+modified: 2024-01-08 10:01
 ---
 
 # 2024-01-05 Status Update
@@ -70,11 +70,11 @@ modified: 2024-01-08 9:01
 
 #### SOC 280
 
-- sent request for check in
+* sent request for check in
 
 #### CS 499 (CS 435)
 
-- no activity for this week
+* no activity for this week
 
 #### NSE 515
 
@@ -86,7 +86,7 @@ modified: 2024-01-08 9:01
 
 #### CH 123
 
-- no activity for this week
+* no activity for this week
 
 #### CS 290
 
@@ -94,7 +94,7 @@ modified: 2024-01-08 9:01
 
 #### MAST 201
 
-- sent request for intake
+* sent request for intake
 
 #### MB 302
 
@@ -118,4 +118,4 @@ New or updated this week:
 
 * Feedback to Nadia on Survey re: ID2ID meetings
 
-%%add LKAD tag when ready to submit%%
+#LKAD
