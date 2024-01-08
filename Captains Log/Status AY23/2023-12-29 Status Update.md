@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02 10:01
-modified: 2024-01-02 10:01
+modified: 2024-01-02 12:01
 ---
 
 # 2023-12-29 Status Update
@@ -43,15 +43,17 @@ modified: 2024-01-02 10:01
 
 #### BDS 599
 
-- no activity
+* no activity
 
 #### CS 201
 
-- no activity
+* no activity
+
 #### CH 123
 
 * I discussed an extension to U24 delivery with Karen when she asked if it was ok with me. I told her Marita had brought this up in a meeting with me this week. I am ok with it, it is a going to be a bit of a complex build. Slight concern that she will still run behind, but I know her Fall was nuts.
-* Marita wants to use: https://labs.oregonstate.education/bc576c7b-dc66-403a-a91f-3532b8246daf/lab-techniques. It shows as no longer available. Sent Akira and Nick support request
+* Marita wants to use: <https://labs.oregonstate.education/bc576c7b-dc66-403a-a91f-3532b8246daf/lab-techniques>. It shows as no longer available. Sent Akira and Nick support request
+
 #### SOC 280
 
 * reviewed media intake recording for GeoCaching activity
@@ -85,6 +87,7 @@ modified: 2024-01-02 10:01
 ### QM Pre Review
 
 * Discussed GEOG 380 review with Katherine. This work is planned for me to start in two weeks.
+
 ## H5P Admin
 
 * Setup H5P sites for GEO 387, NSE 515, and ENG 215
