@@ -1,6 +1,6 @@
 ---
 created: 2023-10-09 14:10
-modified: 2023-10-23 16:10
+modified: 2024-01-08 10:01
 ---
 
 # 2023-10-06 Status Update
@@ -28,7 +28,7 @@ modified: 2023-10-23 16:10
 
 #### CH 332
 
-* After meeting with Jeff, I worked on quizzes for CH 322. Big migration project moving several hundred questions from quizzes into question banks with a specific naming convention. After suggesting a naming convention, documenting his instructions, and getting the criteria of which quizzes to use, I created a Student Asana Task to help with this project: [CH 332 - W24: Convert Quiz Questions to Question Banks - Asana](https://app.asana.com/0/1204909280946840/1205683250189952)
+* After meeting with Jeff, I worked on quizzes for CH 332. Big migration project moving several hundred questions from quizzes into question banks with a specific naming convention. After suggesting a naming convention, documenting his instructions, and getting the criteria of which quizzes to use, I created a Student Asana Task to help with this project: [CH 332 - W24: Convert Quiz Questions to Question Banks - Asana](https://app.asana.com/0/1204909280946840/1205683250189952)
 
 #### CS
 

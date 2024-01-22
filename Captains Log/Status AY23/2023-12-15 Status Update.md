@@ -1,6 +1,6 @@
 ---
 created: 2023-12-18 12:12
-modified: 2023-12-18 15:12
+modified: 2024-01-08 10:01
 ---
 
 # 2023-12-15 Status Update
@@ -29,7 +29,7 @@ modified: 2023-12-18 15:12
 
 #### CH 332
 
-* I completed an inventory for Kate and you about the remaining needs for CH 322.
+* I completed an inventory for Kate and you about the remaining needs for CH 332.
 * Renamed and added information to the General Course Questions discussion board in Start Here. Published page.
 * Renamed and removed Unit 1 - Optional Self-Check Activities: CH_322_DEV with the H5P molecule identification activity which he rejected.
 * Removed the example Week 1 - Discussion which he rejected.
