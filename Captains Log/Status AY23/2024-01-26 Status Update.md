@@ -102,8 +102,6 @@ As a result, Alina sent back her outline and assignment ideas for the app, allow
 
 * I have just been assigned three of these and will do them early the week of January 29.
 
-### IDKB
-
 ### Internship Program
 
 * Checked in with Julie on her project, she has met with Chris and resumed work on the ID Design Library project. We discussed her effort to define the scope of the IDKB, ID DL, and the Learning Repository.
@@ -111,7 +109,7 @@ As a result, Alina sent back her outline and assignment ideas for the app, allow
 
 ### QM Pre-Review
 
-* Need to work on this! Plan to this week
+* Need to work on this! Plan for this week
 
 ### Sr. ID Responsibilities
 
