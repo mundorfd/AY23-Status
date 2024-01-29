@@ -94,7 +94,7 @@ As a result, Alina sent back her outline and assignment ideas for the app, allow
 
 ## Non-Course Projects
 
-## ID Search
+### ID Search
 
 * Attended three candidate presentations and filled out feedback forms for four
 
