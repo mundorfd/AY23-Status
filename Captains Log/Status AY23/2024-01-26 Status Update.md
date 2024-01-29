@@ -15,6 +15,7 @@ modified: 2024-01-29 14:01
 * By Monday, January 29, Weeks 4, 6, 7, and 8's homework for AEC 250 were uploaded to their respective weekly content folders on Box for me to use to build the Gradescope assignments.
 * Spoke with the media team about pending videos. Support for weekly overview videos has been canceled, and Penny will now do weekly intros via DIY after being given extended deadlines.
 * All other recordings are also now complete, Jana expects to be done with these by Friday, February 2.
+
 #### CH 332
 
 This course took quite a bit of my development time this week.
@@ -35,28 +36,30 @@ This course took quite a bit of my development time this week.
 
 #### CEM 372
 
-- Sent Amalesh [a message](https://app.asana.com/0/1204895037910577/1206470951477357) requesting to meet to wrap up the course; it isn't offered until Spring, but still needs him to provide a Syllabus and a few more items
+* Sent Amalesh [a message](https://app.asana.com/0/1204895037910577/1206470951477357) requesting to meet to wrap up the course; it isn't offered until Spring, but still needs him to provide a Syllabus and a few more items
 
 ### S24
 
 #### BDS 599
 
 * Andrew was stuck. Collaboratively built most of the first module
+
 #### CS 201
 
-- Andrew Black has begun working on his first module. 
+* Andrew Black has begun working on his first module.
 
 #### SOC 280
 
-- A bit of movement, Lori has sent in an audio sample and gotten feedback from Jana.
-- Lori provided an updated Syllabus
+* A bit of movement, Lori has sent in an audio sample and gotten feedback from Jana.
+* Lori provided an updated Syllabus
 
 #### CS 499 (CS 435)
 
-- no activity last week
+* no activity last week
+
 #### NSE 515
 
-- no activity last week
+* no activity last week
 
 ### U24
 
@@ -95,10 +98,6 @@ As a result, Alina sent back her outline and assignment ideas for the app, allow
 
 * Attended three candidate presentations and filled out feedback forms for four
 
-### Faculty Communications Manual
-
-New or updated this week:
-
 ### H5P Admin
 
 * I have just been assigned three of these and will do them early the week of January 29.
@@ -112,7 +111,7 @@ New or updated this week:
 
 ### QM Pre-Review
 
-- Need to work on this! Plan to this week
+* Need to work on this! Plan to this week
 
 ### Sr. ID Responsibilities
 
