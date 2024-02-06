@@ -120,6 +120,9 @@ The following seemed to have triggered an extension request.
 
 New or updated this week:
 
+* [Avoid Specifying Due Dates in Page Text](https://github.com/mundorfd/faculty-comms/blob/950952ae1a366a3f0ad24bc766f3640af82b4b87/Avoid%20Specifying%20Due%20Dates%20in%20Page%20Text.md)
+* [Creating Interactive Video with H5P](https://github.com/mundorfd/faculty-comms/blob/main/Creating%20Interactive%20Video%20with%20H5P.md)
+
 ### H5P Admin
 
 * Created three H5P sites from Media Requests assigned to me. Sent instructor and ID access information.
@@ -144,4 +147,4 @@ New or updated this week:
 * Attended Research Literacy Workshop
 * ID Candidate Presentation and Survey Feedback
 
-#LKAD 
+#LKAD
