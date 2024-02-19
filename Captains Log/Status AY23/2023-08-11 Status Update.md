@@ -1,7 +1,9 @@
 ---
-created: 2023-08-11T16:49:16-07:00
-modified: 2023-10-03T08:20:08-07:00
+created: 2023-08-11 11:08
+modified: 2024-02-19 14:02
 ---
+
+# 2023-08-11 Status Update
 
 ## Non-Course Projects
 
@@ -48,7 +50,7 @@ modified: 2023-10-03T08:20:08-07:00
 
 **AT RISK**
 
-- Before going on vacation, I emailed Bram reminding him of deadlines and asking him to make significant progress while I was out because I was worried about him completing the content (Monday, July 17). When I returned, he had not responded or updated any content. I wrote again asking for an update Wednesday, August 9: 
+- Before going on vacation, I emailed Bram reminding him of deadlines and asking him to make significant progress while I was out because I was worried about him completing the content (Monday, July 17). When I returned, he had not responded or updated any content. I wrote again asking for an update Wednesday, August 9:
 
 > Hello Bram,
 > Do you have an update on your content development, recordings, and plan for completion? I don’t think you have had a chance to respond to the message below.
@@ -56,12 +58,12 @@ modified: 2023-10-03T08:20:08-07:00
 > I haven’t seen new content in your course studio site, Master Template CS-373 2023, or recordings shared with Jana. Is there someplace else I should be looking?
 > Please let me know.
 
-- no response as of Friday, Aug 11. 
+- no response as of Friday, Aug 11.
 - Jana has also tried to reach him, as he has not turned in any recordings. No response to her first email, second email he responded only that he was in a conference and will get back to her.
 
 #### SCLM 450/550
 
-- Met with Rohan. He says he has completed six modules of content. He hasn't shared them with me yet, but says he will do so by EOD Friday (Aug 11). 
+- Met with Rohan. He says he has completed six modules of content. He hasn't shared them with me yet, but says he will do so by EOD Friday (Aug 11).
 - Worked with Rohan on slide updates, week 1–3
 
 ### W24
@@ -72,8 +74,8 @@ modified: 2023-10-03T08:20:08-07:00
 
 #### CEM 372
 
-- Amalesh has outlined the course, including which content can be reused from CE 372 and where new content is required. The 10 modules from the earlier course were merged into six, with the overviews for various weeks being combined and the content consolidated 
+- Amalesh has outlined the course, including which content can be reused from CE 372 and where new content is required. The 10 modules from the earlier course were merged into six, with the overviews for various weeks being combined and the content consolidated
 
 No activity for CCE 207, CH 332, CS 493, NSE 515
 
-#LKAD 
+#LKAD

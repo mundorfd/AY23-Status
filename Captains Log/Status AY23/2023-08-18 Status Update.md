@@ -1,14 +1,15 @@
 ---
-created: 2023-08-21T11:19:34-07:00
-modified: 2023-10-03T08:20:09-07:00
+created: 2023-08-21 11:08
+modified: 2024-02-19 14:02
 ---
+
+# 2023-08-18 Status Update
 
 ## Non-Course Projects
 
 ### Internship Program
 
 - Discussed fall internship program with AHE contact, Becky Crandall. Short conversation about the potential reasons for the drop in applicants. She said that she believes cohort size is the main variable. The most recent graduating cohort only had 11 students. The current one has 10.
-
 
 ### OLC Conference
 
@@ -30,7 +31,7 @@ modified: 2023-10-03T08:20:09-07:00
 
 #### CCE 321
 
-- Most of the media was back for this course so I embedded the 47 newly available lectures and videos. There are still a couple missing. The field trip ones that Jason told Drew not to process, and one other that doesn't look like it was recorded to Matt. Details are here: https://oregonstate.box.com/s/5arqvsdnxwgihs35x088nxfceh9i3icj. I have reached out to Burkan and Jason. I told them that the remaining tasks are waiting for them (updates on the videos, syllabus, communication policy)
+- Most of the media was back for this course so I embedded the 47 newly available lectures and videos. There are still a couple missing. The field trip ones that Jason told Drew not to process, and one other that doesn't look like it was recorded to Matt. Details are here: <https://oregonstate.box.com/s/5arqvsdnxwgihs35x088nxfceh9i3icj>. I have reached out to Burkan and Jason. I told them that the remaining tasks are waiting for them (updates on the videos, syllabus, communication policy)
 - Exported content to shared drive
 - Filled out Ecampus Essentials
 
@@ -54,12 +55,11 @@ modified: 2023-10-03T08:20:09-07:00
 - Setup a [Padlet Demo](https://padlet.com/mundorfd/considerations-choosing-a-supplier-ctfee0hrqoldsth6) and recruited IDs to be students. Share with Rohan, he is excited about using this tool for students to share criteria for supplier selection, and wanted voting.
 - completed overview pages through week 8
 
-
 ### W24
 
 #### AEC 250
 
-- The course is currently being designed using the existing Bacc Core outcomes as a four-credit course. Delivery using this content is targeted for Summer 2024. This course will be submitted for the new Core Ed designation. Penny will be going through the training for the new Gen Ed requirements on September 12. I confirmed with Karen that we are ok to be developing to the new outcomes. 
+- The course is currently being designed using the existing Bacc Core outcomes as a four-credit course. Delivery using this content is targeted for Summer 2024. This course will be submitted for the new Core Ed designation. Penny will be going through the training for the new Gen Ed requirements on September 12. I confirmed with Karen that we are ok to be developing to the new outcomes.
 
 #### CCE 207
 
@@ -72,7 +72,7 @@ modified: 2023-10-03T08:20:09-07:00
 #### CS 493
 
 - Nauman has delivered his first module of content.
-- Setup a media tracking sheet. 
+- Setup a media tracking sheet.
 - Shared lecture recording guidance.
 - Setup a studio site for development, imported CS template and made some requested customizations.
 
@@ -86,5 +86,5 @@ modified: 2023-10-03T08:20:09-07:00
 - Setup NSE 515 Studio site. Updates to Start Here section (LOs Copyright)
 - Customized NSE 515 home page and created a new button and banner design option
 - NSE 515 PowerPoint work, accessibility, new template
- 
- #LKAD 
+
+ #LKAD

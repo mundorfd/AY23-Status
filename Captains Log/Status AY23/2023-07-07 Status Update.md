@@ -1,14 +1,15 @@
 ---
-created: 2023-07-10T11:01:16-07:00
-modified: 2023-07-10T13:328:42-07:00
+created: 2023-07-10 11:07
+modified: 2024-02-19 14:02
 ---
+
+# 2023-07-07 Status Update
 
 ## Non-Course Projects
 
-
 ### AI Council
 
-- Developed a list of both general and specific to CLO [AI-Aware STEM ASSIGNMENTS](https://docs.google.com/spreadsheets/d/1f2SBu975OERZ_lHXfWExsMJ7i3MIWH5l61mH4sMYCQQ/edit?usp=sharing). 
+- Developed a list of both general and specific to CLO [AI-Aware STEM ASSIGNMENTS](https://docs.google.com/spreadsheets/d/1f2SBu975OERZ_lHXfWExsMJ7i3MIWH5l61mH4sMYCQQ/edit?usp=sharing).
 
 ### H5P Admin
 
@@ -22,7 +23,7 @@ modified: 2023-07-10T13:328:42-07:00
 
 ### Feedback Committee Task Force
 
-- Reviewed responses to faculty survey with team. 
+- Reviewed responses to faculty survey with team.
 
 ## Course Development Projects
 
@@ -39,15 +40,15 @@ modified: 2023-07-10T13:328:42-07:00
 - Completed media embeds
 - Built a supplementary video page
 - Designed home page
-- Still waiting for PDFs to accompany lectures, at which point we should be abel to run final checks and 
+- Still waiting for PDFs to accompany lectures, at which point we should be abel to run final checks and
 
 #### BHS 255
 
-- Custom media team work complete and added to course. [BHS 255 | Salmonella in the Caribbean](https://web.oregonstate.education/bhs-255-case-study/#/) 
+- Custom media team work complete and added to course. [BHS 255 | Salmonella in the Caribbean](https://web.oregonstate.education/bhs-255-case-study/#/)
 
 #### ME 383
 
-- Embedded the remaining ME 383 Media since it was all returned. Since this course (and the CEM ones I am working on) have so many media embeds, see [Module 8 - Learning Materials: ME_383_DEV](https://canvas.oregonstate.edu/courses/1928764/pages/module-8-learning-materials) for example, I wrote a python script to help me generate the html for these pages. 
+- Embedded the remaining ME 383 Media since it was all returned. Since this course (and the CEM ones I am working on) have so many media embeds, see [Module 8 - Learning Materials: ME_383_DEV](https://canvas.oregonstate.edu/courses/1928764/pages/module-8-learning-materials) for example, I wrote a python script to help me generate the html for these pages.
 
 ### F23
 
@@ -62,7 +63,7 @@ modified: 2023-07-10T13:328:42-07:00
 
 #### CS 373
 
-- Bram has focused on his recordings. His production process is complex and he is seeking support from Jana to "consult" on his development in Adobe Premiere that may go beyond what we should expect from an assigned lecture team member. If I read Jason's email about using the MediaHub that Bram received correctly, he is just losing summer support for the intro video. 
+- Bram has focused on his recordings. His production process is complex and he is seeking support from Jana to "consult" on his development in Adobe Premiere that may go beyond what we should expect from an assigned lecture team member. If I read Jason's email about using the MediaHub that Bram received correctly, he is just losing summer support for the intro video.
 
 #### SCLM 450/550
 
@@ -84,11 +85,9 @@ modified: 2023-07-10T13:328:42-07:00
 
 #### CH 332
 
-- Joint intake with Kate. Talked to Jeff about the DOC and development process. He is interested in developing some Lightboards (he wrote a grant to get equipment at Cascades), but doesn't want to re-record 70 different videos. He said he is not available to meet with us until after August 14. 
+- Joint intake with Kate. Talked to Jeff about the DOC and development process. He is interested in developing some Lightboards (he wrote a grant to get equipment at Cascades), but doesn't want to re-record 70 different videos. He said he is not available to meet with us until after August 14.
 
-
-
-### No activity last week
+### No Activity Last Week
 
 I have check-ins scheduled with these instructors this week.
 

@@ -1,10 +1,11 @@
 ---
-created: 2023-08-28T09:53:05-07:00
-modified: 2023-10-03T08:20:10-07:00
+created: 2023-08-28 9:08
+modified: 2024-02-19 14:02
 ---
 
-## Non-Course Projects
+# 2023-08-25 Status Update
 
+## Non-Course Projects
 
 ### OLC Conference
 
@@ -28,7 +29,7 @@ I have set up a GitHub repository to work on the faculty communications document
 #### ID2ID
 
 - Facilitated ID2ID meeting
-- Prepped and delivered a Canvas Templates demo 
+- Prepped and delivered a Canvas Templates demo
 - Demoed a question banks thing tip
 - showed how to export padlets
 
@@ -45,7 +46,7 @@ I have set up a GitHub repository to work on the faculty communications document
 
 - I am not building this course linearly. I am about halfway through the learning materials pages. They each contain a ton of videos, see [Week 2 - Learning Materials: CEM 471](https://canvas.oregonstate.edu/courses/1953777/pages/week-2-learning-materials?module_item_id=23423471) for example. My python script took a bit to get working smoothly, but has been a BIG help here. Pulls the video list, titles and embed code or youtube URL from a csv file and generates the html needed for the video grid.
 - Updates to week 1–4 assignments (correcting point allocations, converting some questions to groups)
-- After cleanup and prework (building tables, etc), sent the remaining building tasks for quizzes and three Canvas quiz assignments to student queue. This will take care of the remaining assessments but for two discussions. Especially proud of this table (from an image) that I built: [assignment7 #17: CEM 471](https://canvas.oregonstate.edu/courses/1953777/pages/assignment7-number-17). Built the florescent lamp in illustrator. Used the perspective grid. 
+- After cleanup and prework (building tables, etc), sent the remaining building tasks for quizzes and three Canvas quiz assignments to student queue. This will take care of the remaining assessments but for two discussions. Especially proud of this table (from an image) that I built: [assignment7 #17: CEM 471](https://canvas.oregonstate.edu/courses/1953777/pages/assignment7-number-17). Built the florescent lamp in illustrator. Used the perspective grid.
 
 #### CS 162H
 
@@ -55,7 +56,7 @@ I have set up a GitHub repository to work on the faculty communications document
 - I created a discussion rubric for Rohan to use for all individual discussions.
 - Moved PowerPoint Slides to current template
 
-#### CEM 
+#### CEM
 
 ### W24
 
@@ -69,7 +70,7 @@ I have set up a GitHub repository to work on the faculty communications document
 
 #### CH 332
 
-- Jeff was able to complete the DOC content. Kate had graded it, but I went through it all and starting building some custom banners, hoping to appeal to his willingness to make a thorough Canvas site. See [Week 1 - Overview: CH_322_DEV](https://canvas.oregonstate.edu/courses/1963511/pages/week-1-overview?module_item_id=23488707) and [Week 3 - Overview: CH_322_DEV](https://canvas.oregonstate.edu/courses/1963511/pages/week-3-overview?module_item_id=23488717). The banners involved some consultation with my favorite PhD chemistry student, Adobe Stock and some Illustrator tweaks. E.J. was also a big help here. I am converting the overview banners to Illustrator files, making them much easier to work with (gradients, etc). 
+- Jeff was able to complete the DOC content. Kate had graded it, but I went through it all and starting building some custom banners, hoping to appeal to his willingness to make a thorough Canvas site. See [Week 1 - Overview: CH_322_DEV](https://canvas.oregonstate.edu/courses/1963511/pages/week-1-overview?module_item_id=23488707) and [Week 3 - Overview: CH_322_DEV](https://canvas.oregonstate.edu/courses/1963511/pages/week-3-overview?module_item_id=23488717). The banners involved some consultation with my favorite PhD chemistry student, Adobe Stock and some Illustrator tweaks. E.J. was also a big help here. I am converting the overview banners to Illustrator files, making them much easier to work with (gradients, etc).
 - Set up CLOs in all Overview pages to ease build/alignment activities down the road
 
 #### CS 493
@@ -81,7 +82,6 @@ I have set up a GitHub repository to work on the faculty communications document
 - was waiting to setup studio site until AI updates implemented
 
 > Please continue to work on content development and recordings. We are slightly behind our target for delivered content. This is ok; you will have more time to work on it now. See [Ecampus Development Milestones](https://oregonstate.box.com/s/wxxw78ujw1mw7mkq0piyimh6fx89cxqa). Please note there is much less flexibility (if any) in the recording deadlines and the final content delivery to me date. Here is your [Media Tracking Spreadsheet](https://oregonstate.box.com/s/29qfxzsawgwk65uelvd24y9epgv1zfee) that we can use to document recordings.
-
 
 #### CEM 372
 
