@@ -1,6 +1,6 @@
 ---
 created: 2024-02-19 13:02
-modified: 2024-02-19 14:02
+modified: 2024-02-19 15:02
 ---
 
 # Status Update
@@ -15,7 +15,7 @@ modified: 2024-02-19 14:02
 
 #### BDS 599
 
-- Sent out a reminder of the course materials deadline, lots of activity in his box folder but hasn't released any modules yet for me to build. He made significant progress on DIY recordings. 
+- Sent out a reminder of the course materials deadline, lots of activity in his box folder but hasn't released any modules yet for me to build. He made significant progress on DIY recordings.
 
 #### CS 201
 
@@ -89,6 +89,12 @@ modified: 2024-02-19 14:02
 ### Faculty Communications Manual
 
 New or updated this week:
+
+- [Content Reminder #2](https://github.com/mundorfd/faculty-comms/blob/c9b1710e700e6cbdf25cda76a02df396c05f6cf5/Content%20Reminder%20%232.md)
+- [Course Content Due Today](https://github.com/mundorfd/faculty-comms/blob/c9b1710e700e6cbdf25cda76a02df396c05f6cf5/Course%20Content%20Due%20Today.md)
+- [General Accessibility Errors Common in Slide Decks (and how to fix them)](https://github.com/mundorfd/faculty-comms/blob/c9b1710e700e6cbdf25cda76a02df396c05f6cf5/General%20Accessibility%20Errors%20Common%20in%20Slide%20Decks%20(and%20how%20to%20fix%20them).md)
+- [Page Design Strategies to Reduce Cognitive Load](https://github.com/mundorfd/faculty-comms/blob/c9b1710e700e6cbdf25cda76a02df396c05f6cf5/Page%20Design%20Strategies%20to%20Reduce%20Cognitive%20Load.md)
+- [Descriptive Links in Web Accessibility](https://github.com/mundorfd/faculty-comms/blob/c9b1710e700e6cbdf25cda76a02df396c05f6cf5/Descriptive%20Links%20in%20Web%20Accessibility.md)
 
 ### IDKB
 
