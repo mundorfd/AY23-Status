@@ -17,7 +17,7 @@ modified: 2024-02-19 14:02
 - Penny still owes
 	- discussion rubrics
 	- midterm and final exams
-	- review of homeworks
+	- review of homeworks**
 	- a lowstakes Gradescope assignment
 - She finished her powerpoint slide updates for embedding
 
