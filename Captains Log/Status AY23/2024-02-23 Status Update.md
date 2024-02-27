@@ -86,7 +86,7 @@ modified: 2024-02-26 16:02
 
 ### Faculty Communications Manual
 
-New or updated this week:
+Mostly for me, but I have a growing collection of [Curated DOC Week 6 Discussion Feedback](https://github.com/mundorfd/faculty-comms/blob/94453e08348c76eac96f4e03542c3340473845ef/Curated%20DOC%20Week%206%20Discussion%20Feedback.md) on effective communication policies and managing workload. Several bits would be nice additions to sample faculty communication (whether or not they are in the DOC). It might be helpful to the team if we collected similar examples for all the DOC discussions we facilitate. 
 
 ### H5P Admin
 
