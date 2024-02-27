@@ -1,6 +1,6 @@
 ---
 created: 2024-02-26 13:02
-modified: 2024-02-26 16:02
+modified: 2024-02-26 17:02
 ---
 
 # Status
@@ -86,7 +86,7 @@ modified: 2024-02-26 16:02
 
 ### Faculty Communications Manual
 
-Mostly for me, but I have a growing collection of [Curated DOC Week 6 Discussion Feedback](https://github.com/mundorfd/faculty-comms/blob/94453e08348c76eac96f4e03542c3340473845ef/Curated%20DOC%20Week%206%20Discussion%20Feedback.md) on effective communication policies and managing workload. Several bits would be nice additions to sample faculty communication (whether or not they are in the DOC). It might be helpful to the team if we collected similar examples for all the DOC discussions we facilitate. 
+Mostly for me, but I have a growing collection of [Curated DOC Week 6 Discussion Feedback](https://github.com/mundorfd/faculty-comms/blob/94453e08348c76eac96f4e03542c3340473845ef/Curated%20DOC%20Week%206%20Discussion%20Feedback.md) on effective communication policies and managing workload. Several bits would be nice additions to sample faculty communication (whether or not they are in the DOC). It might be helpful to the team if we collected similar examples for all the DOC discussions we facilitate.
 
 ### H5P Admin
 
@@ -116,4 +116,4 @@ Mostly for me, but I have a growing collection of [Curated DOC Week 6 Discussion
 - Discussions with IT about Laptop battery
 - Ashlee had asked to meet to discuss LADR project, including involving interns, and reducing the barrier to contribution. We came up with a workflow that should help quite a bit, stay tuned.
 
-%%add LKAD tag when ready to submit%%
+#LKAD
