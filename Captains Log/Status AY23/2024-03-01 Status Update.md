@@ -17,7 +17,7 @@ A few general comments. I have quite a bit of building I can do with recently de
 
 #### BDS 599
 
-- Andrew has completed delivery of most of his content. 
+- Andrew has completed the delivery of most of his content. 
 
 #### CS 201
 
@@ -93,7 +93,7 @@ A few general comments. I have quite a bit of building I can do with recently de
 - Drafted [AI-Driven Visualization & Multimedia Enhancement in Course Design](https://docs.google.com/document/d/1YxgcDAzicKYTU5_tiSWOJAXkhfPKaGDH-Mo-gLOmvRs/edit?usp=sharing) and shared with leadership.
 - Updated based on feedback received.
 
-### CDT Testing Taskforce
+### QCATE Taskforce
 
 ### Faculty Communications Manual
 

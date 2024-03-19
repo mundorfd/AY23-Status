@@ -86,10 +86,10 @@ modified: 2024-02-19 14:02
 
 ## Non-Course Projects
 
-### CDT Testing Taskforce
+### QCATE Taskforce
 
 - Reviewed and wrote up questions on project brief
-- Sent suggested revisions to Laurie on CDT Testing Taskforce Project Brief
+- Sent suggested revisions to Laurie on QCATE Taskforce Project Brief
 
 ### Faculty Communications Manual
 
